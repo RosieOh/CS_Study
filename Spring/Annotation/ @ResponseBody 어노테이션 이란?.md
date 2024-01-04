@@ -2,7 +2,7 @@
 비동기 처리를 위해 이 어노테이션들은 어떻게 작동할까?
 
 ### 클라이언트와 서버의 비동기 통신 
-![Alt text](image.png)
+![Alt text](/assets/HTTP_1.png)
 
 >클라이언트에서 서버로 통신하는 메시지를 요청(request) 메시지라고 하며, 서버에서 클라이언트로 통신하는 메시지를 응답(response) 메시지라고 한다.
 <br/>
@@ -55,7 +55,7 @@ public String login(@RequestBody UserVO getUserVO) throws Exception {
 <br/>
 
 - dispatcher-servlet.xml 의 <annotation-drvien> 태그 내에 선언하는 <message-converter> 에서 확인.
-![Alt text](image-1.png)
+![Alt text](/assets/dispatcher-servlet_1.png)
 
 > 메세지 변환기 중에서 해당 미디어타입과 파라미터 타입을 처리할 수 있다면, HTTP요청의 본문 부분을 통째로 변환해서 지정된 메소드 파라미터로 전달해준다.
 ```java
