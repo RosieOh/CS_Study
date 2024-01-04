@@ -52,7 +52,7 @@
 
 ## 01-04. Spring Framework 주요 모듈 구성
 
-![Spring Framework 주요 모듈 구성](./springframework001.png)
+![Spring Framework 주요 모듈 구성](/springframework001.png)
 
 ### 1) Data Access/Integration(데이터 접근 및 통합)
 
@@ -106,7 +106,7 @@ https://www.azul.com/downloads/?package=jdk#zulu
 위 사이트에 접속하여 Open JDK 17 버전의 Windows
 x86 64-bit용으로 다운로드 받은 후 설치합니다.
 
-![OpenJDK 17 설치](./capture/setting00_01.png)
+![OpenJDK 17 설치](/assets/capture/setting00_01.png)
 
 
 
@@ -116,27 +116,27 @@ https://www.jetbrains.com/ko-kr/idea/download/?section=windows
 
 위 사이트에 접속하여 인텔리 제이를 다운로드 받아 설치합니다.
 
-![인텔리제이 설치](./capture/setting00_02.png)
+![인텔리제이 설치](/assets/capture/setting00_02.png)
 
 
 ### 3) 인텔리제이 프로젝트 생성
 
 #### 3-1) 새로운 프로젝트 생성
 
-![인텔리제이 새로운 프로젝트 생성](./capture/setting01.png)
+![인텔리제이 새로운 프로젝트 생성](/assets/capture/setting01.png)
 
 
 #### 3-2) 새로운 프로젝트 설정
 
-![인텔리제이 새로운 프로젝트 생성 및 설정](./capture/setting02.png)
+![인텔리제이 새로운 프로젝트 생성 및 설정](/assets/capture/setting02.png)
 
 
 #### 3-3) 새로운 프로젝트 라이브러리 로딩 설정
 
-![인텔리제이 새로운 프로젝트 생성](./capture/setting03.png)
+![인텔리제이 새로운 프로젝트 생성](/assets/capture/setting03.png)
 
 
-![인텔리제이 새로운 프로젝트 설정](./capture/setting04.png)
+![인텔리제이 새로운 프로젝트 설정](/assets/capture/setting04.png)
 
 #### 3-4) D:\kim\springStudy\study1\pom.xml 기본 설정
 
@@ -225,41 +225,41 @@ https://www.jetbrains.com/ko-kr/idea/download/?section=windows
 
 #### 3-5) 톰캣 서버 다운로드
 
-![인텔리제이 새로운 프로젝트 설정](./capture/setting05.png)
+![인텔리제이 새로운 프로젝트 설정](/assets/capture/setting05.png)
 
-![인텔리제이 새로운 프로젝트 설정](./capture/setting06.png)
+![인텔리제이 새로운 프로젝트 설정](/assets/capture/setting06.png)
 
-![인텔리제이 새로운 프로젝트 설정](./capture/setting07.png)
+![인텔리제이 새로운 프로젝트 설정](/assets/capture/setting07.png)
 
 
 
 #### 3-5) 톰캣 서버 설정 및 실행
 
-![인텔리제이 새로운 프로젝트 설정](./capture/setting08.png)
+![인텔리제이 새로운 프로젝트 설정](/assets/capture/setting08.png)
 
-![인텔리제이 새로운 프로젝트 설정](./capture/setting08_1.png)
+![인텔리제이 새로운 프로젝트 설정](/assets/capture/setting08_1.png)
 
-![인텔리제이 새로운 프로젝트 설정](./capture/setting08_2.png)
+![인텔리제이 새로운 프로젝트 설정](/assets/capture/setting08_2.png)
 
-![인텔리제이 새로운 프로젝트 설정](./capture/setting08_3.png)
+![인텔리제이 새로운 프로젝트 설정](/assets/capture/setting08_3.png)
 
-![인텔리제이 새로운 프로젝트 설정](./capture/setting08_4.png)
+![인텔리제이 새로운 프로젝트 설정](/assets/capture/setting08_4.png)
 
-![인텔리제이 새로운 프로젝트 설정](./capture/setting08_5.png)
+![인텔리제이 새로운 프로젝트 설정](/assets/capture/setting08_5.png)
 
-![인텔리제이 새로운 프로젝트 설정](./capture/setting08_6.png)
+![인텔리제이 새로운 프로젝트 설정](/assets/capture/setting08_6.png)
 
-![인텔리제이 새로운 프로젝트 설정](./capture/setting08_7.png)
+![인텔리제이 새로운 프로젝트 설정](/assets/capture/setting08_7.png)
 
-![인텔리제이 새로운 프로젝트 설정](./capture/setting08_8.png)
+![인텔리제이 새로운 프로젝트 설정](/assets/capture/setting08_8.png)
 
-![인텔리제이 새로운 프로젝트 설정](./capture/setting08_9.png)
+![인텔리제이 새로운 프로젝트 설정](/assets/capture/setting08_9.png)
 
-![인텔리제이 새로운 프로젝트 설정](./capture/setting08_10.png)
+![인텔리제이 새로운 프로젝트 설정](/assets/capture/setting08_10.png)
 
-![인텔리제이 새로운 프로젝트 설정](./capture/setting08_11.png)
+![인텔리제이 새로운 프로젝트 설정](/assets/capture/setting08_11.png)
 
-![인텔리제이 새로운 프로젝트 설정](./capture/setting08_12.png)
+![인텔리제이 새로운 프로젝트 설정](/assets/capture/setting08_12.png)
 
 
 <br><br>
@@ -773,9 +773,9 @@ D:\kim\springStudy\study2\src\main\webapp\WEB-INF\applicationContext.xml
 
 D:\kim\springStudy\study2\src\main\resources 디렉토리에서 마우스 오른쪽 버튼 을 누르고 나오는 메뉴에서 [New]-[File] 을 선택하고, 입력 란에 mybatis-config.xml을 입력하고, Enter를 칩니다.
 
-![mybatis-config.xml 파일 추가](./capture/setting09_2.png)
+![mybatis-config.xml 파일 추가](/assets/capture/setting09_2.png)
 
-![mybatis-config.xml 파일 생성](./capture/setting09_3.png)
+![mybatis-config.xml 파일 생성](/assets/capture/setting09_3.png)
 
 
 <br>
@@ -801,15 +801,15 @@ D:\kim\springStudy\study2\src\main\resources 디렉토리에서 마우스 오른
 
 - D:\kim\springStudy\study2\src\main\resources 디렉토리에서 마우스 오른쪽 버튼 을 누르고 나오는 메뉴에서 [New]-[Directory] 를 선택하고, 입력 란에 mappers을 입력하고, Enter를 칩니다.
 
-![mappers 디렉토리 생성](./capture/setting09_4.png)
+![mappers 디렉토리 생성](/assets/capture/setting09_4.png)
 
-![mappers 디렉토리 생성](./capture/setting09_5.png)
+![mappers 디렉토리 생성](/assets/capture/setting09_5.png)
 
 - D:\kim\springStudy\study2\src\main\resources\mappers 디렉토리에서 마우스 오른쪽 버튼 을 누르고 나오는 메뉴에서 [New]-[Directory] 를 선택하고, 입력 란에 testMapper.xml을 입력하고, Enter를 칩니다.
 
-![testMapper.xml 파일 생성](./capture/setting09_51.png)
+![testMapper.xml 파일 생성](/assets/capture/setting09_51.png)
 
-![testMapper.xml 파일 생성](./capture/setting09_6.png)
+![testMapper.xml 파일 생성](/assets/capture/setting09_6.png)
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -831,9 +831,9 @@ D:\kim\springStudy\study2\src\main\resources 디렉토리에서 마우스 오른
 
 - D:\kim\springStudy\study2\src\main\webapp\WEB-INF 디렉토리에서 마우스 오른쪽 버튼 을 누르고 나오는 메뉴에서 [New]-[File] 를 선택하고, 입력 란에 dispatcher-servlet.xml을 입력하고, Enter를 칩니다.
 
-![dispatcher-servlet.xml 파일 생성](./capture/setting10.png)
+![dispatcher-servlet.xml 파일 생성](/assets/capture/setting10.png)
 
-![dispatcher-servlet.xml 파일 생성](./capture/setting10_1.png)
+![dispatcher-servlet.xml 파일 생성](/assets/capture/setting10_1.png)
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -927,7 +927,7 @@ D:\kim\springStudy\study2\src\main\resources 디렉토리에서 마우스 오른
 - 위와 같이 webapp 디렉토리 안에 data 디렉토리를 생성합니다.
 
 
-![dispatcher-servlet.xml 파일 생성](./capture/setting10_2.png)
+![dispatcher-servlet.xml 파일 생성](/assets/capture/setting10_2.png)
 
 
 <br><br>
@@ -938,9 +938,9 @@ D:\kim\springStudy\study2\src\main\resources 디렉토리에서 마우스 오른
 
 - D:\kim\springStudy\study2\src\main\resources 디렉토리에서 마우스 오른쪽 버튼을 누르고 나오는 메뉴에서 [New]-[File] 를 선택하고, 입력 란에 log4j.xml을 입력하고, Enter를 칩니다.
 
-![log4j.xml 작성](./capture/setting11.png)
+![log4j.xml 작성](/assets/capture/setting11.png)
 
-![log4j.xml 작성](./capture/setting11_1.png)
+![log4j.xml 작성](/assets/capture/setting11_1.png)
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -1014,7 +1014,7 @@ D:\kim\springStudy\study2\src\main\resources 디렉토리에서 마우스 오른
 
 - D:\kim\springStudy\study2\src\main\java 디렉토리에서 마우스 오른쪽 버튼을 누르고 나오는 메뉴에서 [New]-[Package] 를 선택하여 아래 그림과 같이 log4j.xml에서 지정한 패키지를 생성합니다.
 
-![관련 패키지 작성](./capture/setting11_2.png)
+![관련 패키지 작성](/assets/capture/setting11_2.png)
 
 <br>
 
@@ -1022,9 +1022,9 @@ D:\kim\springStudy\study2\src\main\resources 디렉토리에서 마우스 오른
 
 - D:\kim\springStudy\study2\src\main\resources 디렉토리에서 마우스 오른쪽 버튼을 누르고 나오는 메뉴에서 [New]-[File] 를 선택하고, 입력 란에 logback.xml을 입력하고, Enter를 칩니다.
 
-![logback.xml 작성](./capture/setting12.png)
+![logback.xml 작성](/assets/capture/setting12.png)
 
-![logback.xml 작성](./capture/setting12_1.png)
+![logback.xml 작성](/assets/capture/setting12_1.png)
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -1077,9 +1077,9 @@ D:\kim\springStudy\study2\src\main\resources 디렉토리에서 마우스 오른
 
 - D:\kim\springStudy\study2\src\main\resources 디렉토리에서 마우스 오른쪽 버튼을 누르고 나오는 메뉴에서 [New]-[File] 를 선택하고, 입력 란에 log4jdbc.log4j2.properties를 입력하고, Enter를 칩니다.
 
-![log4jdbc.log4j2.properties 작성](./capture/setting13.png)
+![log4jdbc.log4j2.properties 작성](/assets/capture/setting13.png)
 
-![log4jdbc.log4j2.properties 작성](./capture/setting13_1.png)
+![log4jdbc.log4j2.properties 작성](/assets/capture/setting13_1.png)
 
 ```properties
 log4jdbc.spylogdelegator.name=net.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator
@@ -1091,9 +1091,9 @@ log4jdbc.spylogdelegator.name=net.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator
 
 - D:\kim\springStudy\study2\src\main\webapp\WEB-INF 디렉토리에서 마우스 오른쪽 버튼을 누르고 나오는 메뉴에서 [New]-[File] 를 선택하고, 입력 란에 spring-security.xml을 입력하고, Enter를 칩니다.
 
-![spring-security.xml 파일 작성](./capture/setting14.png)
+![spring-security.xml 파일 작성](/assets/capture/setting14.png)
 
-![spring-security.xml 파일 작성](./capture/setting14_1.png)
+![spring-security.xml 파일 작성](/assets/capture/setting14_1.png)
 
 
 ## 02-8. 데이터베이스 설정 
@@ -1123,9 +1123,9 @@ SELECT * from test;
 
 - D:\kim\springStudy\study2\src\main\java\kr\ed\haebeop\domain 패키지 디렉토리에서 마우스 오른쪽 버튼을 누르고 나오는 메뉴에서 [New]-[Java Class] 를 선택하고, 입력 란에 Test를 입력하고, Enter를 칩니다.
 
-![Test 클래스 작성](./capture/setting15.png)
+![Test 클래스 작성](/assets/capture/setting15.png)
 
-![Test 클래스 작성](./capture/setting15_1.png)
+![Test 클래스 작성](/assets/capture/setting15_1.png)
 
 ```java
 package kr.ed.heabeop.domain;
